@@ -1,45 +1,119 @@
 {
-    "superheros" : [
-        {
-            "id" : 1,
-            "name" : "Batman",
-            "alterEgo" : "Bruce Wayne"
-        },
-        {
-            "id" : 2,
-            "name" : "Superman",
-            "alterEgo" : "Clark Kent"
-        },
-        {
-            "id" : 3,
-            "name" : "Wonder Woman..",
-            "alterEgo" : "Prince Diana"
-        }
-    ],
-    "cricketers" : [
-        {"id" : 1, "name" : "Sehwag", "alterName" : "Viru"},
-        {"id" : 2, "name" : "Kane", "alterName" : "Willi"},
-        {"id" : 3, "name" : "Styen", "alterName" : "Gun"}
-    ],
-    "users" : [
-        {"id" : "sathish@gmail.com", "desgId" : "developer"}
-    ],
-    "designation" : [
-        {
-            "id" : "developer",
-            "technology" : ["react", "vue", "angular"]
-        }
-    ],
-    "nums" : [
-        {"id" : 1, "label" : "one"},
-        {"id" : 2, "label" : "two"},
-        {"id" : 3, "label" : "three"},
-        {"id" : 4, "label" : "four"},
-        {"id" : 5, "label" : "five"},
-        {"id" : 6, "label" : "six"},
-        {"id" : 7, "label" : "seven"},
-        {"id" : 8, "label" : "eight"},
-        {"id" : 9, "label" : "nine"},
-        {"id" : 10, "label" : "ten"}
-        ]
+  "superheros": [
+    {
+      "id": 1,
+      "name": "Batman",
+      "alterEgo": "Bruce Wayne"
+    },
+    {
+      "id": 2,
+      "name": "Superman",
+      "alterEgo": "Clark Kent"
+    },
+    {
+      "id": 3,
+      "name": "Wonder Woman..",
+      "alterEgo": "Prince Diana"
+    },
+    {
+      "name": "Sathish",
+      "alterEgo": "Sat",
+      "id": 4
+    },
+    {
+      "name": "Spiderman",
+      "alterEgo": "Jack",
+      "id": 5
+    },
+    {
+      "name": "check",
+      "alterEgo": "check",
+      "id": 6
+    },
+    {
+      "name": "catwomen",
+      "alterEgo": "celinia",
+      "id": 7
+    },
+    {
+      "name": "sat",
+      "alterEgo": "saju",
+      "id": 8
+    }
+  ],
+  "cricketers": [
+    {
+      "id": 1,
+      "name": "Sehwag",
+      "alterName": "Viru"
+    },
+    {
+      "id": 2,
+      "name": "Kane",
+      "alterName": "Willi"
+    },
+    {
+      "id": 3,
+      "name": "Styen",
+      "alterName": "Gun"
+    }
+  ],
+  "users": [
+    {
+      "id": "sathish@gmail.com",
+      "desgId": "developer"
+    }
+  ],
+  "designation": [
+    {
+      "id": "developer",
+      "technology": [
+        "react",
+        "vue",
+        "angular"
+      ]
+    }
+  ],
+  "nums": [
+    {
+      "id": 1,
+      "label": "one"
+    },
+    {
+      "id": 2,
+      "label": "two"
+    },
+    {
+      "id": 3,
+      "label": "three"
+    },
+    {
+      "id": 4,
+      "label": "four"
+    },
+    {
+      "id": 5,
+      "label": "five"
+    },
+    {
+      "id": 6,
+      "label": "six"
+    },
+    {
+      "id": 7,
+      "label": "seven"
+    },
+    {
+      "id": 8,
+      "label": "eight"
+    },
+    {
+      "id": 9,
+      "label": "nine"
+    },
+    {
+      "id": 10,
+      "label": "ten"
+    }
+  ]
 }
